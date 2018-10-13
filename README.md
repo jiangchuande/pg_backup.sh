@@ -15,7 +15,7 @@ archive_command = 'cp %p toYourWalArchiveDir/%f'
 ```
 ## contab
 每周一 
-`30 2 * * 1  /pathToYourScriptDir/pg_backup.sh`
+```30 2 * * 1  /pathToYourScriptDir/pg_backup.sh```
   
 
 
